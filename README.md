@@ -4,6 +4,6 @@ I'm not really a true-to-one-path person career-wise - I've done a number of dif
 
 ### Find me
 
-- 🌐 **Portfolio** - [github.com/rylanmiller25/portfolio](https://github.com/rylanmiller25/portfolio)
+- 🌐 **Portfolio** - [github.com/rylanmiller25/portfolio](https://rylanmiller25.github.io)
 - 💼 **LinkedIn** - [linkedin.com/in/miller-rylan](https://www.linkedin.com/in/miller-rylan/)
 - ✉️ **Email** - [rylan.miller25@gmail.com](mailto:rylan.miller25@gmail.com)
